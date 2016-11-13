@@ -5,6 +5,14 @@ A mobile app to tell riders/drivers following information based on ‘crowd sour
  1. Road condition.
  2. Best Route from A to B
 
+## Motivation
+- No easy, accurate way to find which route to take based on road condition, safety etc. Google Maps is 95% good for cities and probably 50% for long distance touring (in India).
+- Our only option is to find friends or connect with awesome communities like below where people selflessly give such detail information about every Km. Very thorough and detail data, unfortunately 'too much data' and sometimes it gets overwhelming and we are not able to make decision until we 'ask' our question. Vision is to have an app where users just update data and finding route condition should be easier.
+  - http://www.team-bhp.com/forum/route-travel-queries/
+  - http://www.bcmtouring.com/forums/forums/road-status.90/
+  - https://www.facebook.com/groups/hvkumar/
+  - xBHP
+
 ## Road condition:
 Rider/Driver can give following information about a specific route
 - Road type (todo: define)
