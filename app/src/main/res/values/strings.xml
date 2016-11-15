@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RouteCondition</string>
+    <string name="info">Shake detection log</string>
+    <string name="shake_detector_created">Shake detector created and started!</string>
+    <string name="shake_detector_error">ERROR: Cannot create and start shake detector!</string>
+    <string name="shake_detector_restarted">Listener restarted successfully.</string>
+    <string name="shake_detector_stopped">Listener stopped.</string>
+    <string name="shake_detector_destroyed">Listener Destroyed.</string>
+    <string name="shake_detected">Shake detected.</string>
+    <string name="device_shaken">Device shaken!</string>
+</resources>
