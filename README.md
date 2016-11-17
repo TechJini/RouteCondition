@@ -65,5 +65,3 @@ Rider/Driver can give following information about a specific route
 
 ### Resources:
 - https://developers.google.com/maps/documentation/api-picker
-
-/end
